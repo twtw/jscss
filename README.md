@@ -9,3 +9,6 @@ http://knockoutjs.com
 ## jQuery
 http://jquery.com
 
+## lorem
+https://github.com/shyiko/lorem
+
