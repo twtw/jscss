@@ -19,6 +19,8 @@ https://github.com/scottjehl/Respond
 https://github.com/aFarkas/html5shiv
 
 ## bootstrap for IE
+http://www.joostrap.com/blog/bootstrap-3-supporting-internet-explorer-8-and-9
+
         <!--[if lt IE 9]>
          <script src="/js/html5shiv.js" type="text/javascript"></script>
          <script src="/js/respond.min.js" type="text/javascript"></script>
