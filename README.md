@@ -18,6 +18,9 @@ https://github.com/scottjehl/Respond
 ## html5shiv
 https://github.com/aFarkas/html5shiv
 
+## React
+http://facebook.github.io/react/
+
 ## bootstrap for IE
 http://www.joostrap.com/blog/bootstrap-3-supporting-internet-explorer-8-and-9
 
