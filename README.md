@@ -29,3 +29,5 @@ http://www.joostrap.com/blog/bootstrap-3-supporting-internet-explorer-8-and-9
          <script src="/js/respond.min.js" type="text/javascript"></script>
         <![endif]-->
 
+## Knockout-Kendo.js
+http://rniemeyer.github.io/knockout-kendo/
