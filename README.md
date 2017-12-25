@@ -1,4 +1,4 @@
-# 常用的 js css 檔案
+# 常用的 js css 檔案 在 pages
 
 ## Bootstrap
 http://getbootstrap.com/
