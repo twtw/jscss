@@ -1,3 +1,5 @@
+[![Join the chat at https://gitter.im/code4twlib/Lobby](https://badges.gitter.im/f2etw/weekly-collection.svg)](https://gitter.im/code4twlib/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 # 常用的 js css 檔案
 
 ## Bootstrap
