@@ -38,5 +38,4 @@ http://rniemeyer.github.io/knockout-kendo/
 
 ### copy location and title to asciidoc link format
 
-[url2adoc](javascript:url=location.href;title=document.title;link=url+&quot;[&quot;+title+&quot;]&quot;;input=document.createElement(&quot;input&quot;);input.setAttribute(&quot;id&quot;,&quot;bottom&quot;);txt=document.createTextNode(link);input.value=link;document.body.appendChild(input);document.querySelector('#bottom').select();document.execCommand('copy');)
-
+<a href="javascript:url=location.href;title=document.title;link=url+&quot;[&quot;+title+&quot;]&quot;;input=document.createElement(&quot;input&quot;);input.setAttribute(&quot;id&quot;,&quot;bottom&quot;);txt=document.createTextNode(link);input.value=link;document.body.appendChild(input);document.querySelector('#bottom').select();document.execCommand('copy');">url2adoc</a>
