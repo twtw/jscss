@@ -33,3 +33,8 @@ http://www.joostrap.com/blog/bootstrap-3-supporting-internet-explorer-8-and-9
 
 ## Knockout-Kendo.js
 http://rniemeyer.github.io/knockout-kendo/
+
+## My BookMarklets
+
+### copy location and title to asciidoc link format
+[url2adoc]=javascript:url=location.href;title=document.title;link=url+"["+title+"]";input=document.createElement("input");input.setAttribute("id","bottom");txt=document.createTextNode(link);input.value=link;document.body.appendChild(input);document.querySelector('#bottom').select();document.execCommand('copy');
