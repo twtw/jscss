@@ -13,3 +13,6 @@
 [submodule "lib/jquery-mobile"]
 	path = lib/jquery-mobile
 	url = https://github.com/jquery/jquery-mobile
+[submodule "lib/blueimp-gallery"]
+	path = lib/blueimp-gallery
+	url = https://github.com/blueimp/Gallery
