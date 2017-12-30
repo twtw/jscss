@@ -1,0 +1,3 @@
+[submodule "lib/lorem"]
+	path = lib/lorem
+	url = https://github.com/shyiko/lorem
