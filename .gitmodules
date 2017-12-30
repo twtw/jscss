@@ -16,3 +16,6 @@
 [submodule "lib/blueimp-gallery"]
 	path = lib/blueimp-gallery
 	url = https://github.com/blueimp/Gallery
+[submodule "lib/handlebars"]
+	path = lib/handlebars
+	url = https://github.com/wycats/handlebars.js/
