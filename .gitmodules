@@ -7,3 +7,9 @@
 [submodule "lib/knockout-kendo"]
 	path = lib/knockout-kendo
 	url = https://github.com/kendo-labs/knockout-kendo
+[submodule "lib/bulma"]
+	path = lib/bulma
+	url = https://github.com/jgthms/bulma
+[submodule "lib/jquery-mobile"]
+	path = lib/jquery-mobile
+	url = https://github.com/jquery/jquery-mobile
