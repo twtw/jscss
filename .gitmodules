@@ -1,3 +1,9 @@
 [submodule "lib/lorem"]
 	path = lib/lorem
 	url = https://github.com/shyiko/lorem
+[submodule "lib/knockout"]
+	path = lib/knockout
+	url = https://github.com/knockout/knockout
+[submodule "lib/knockout-kendo"]
+	path = lib/knockout-kendo
+	url = https://github.com/kendo-labs/knockout-kendo

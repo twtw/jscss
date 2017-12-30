@@ -1,0 +1,1 @@
+javascript:(function(){url=location.href;title=document.title;link=url+"["+title+"]";input=document.createElement("input");input.setAttribute("id","bottom");input.value=link;document.body.appendChild(input);document.querySelector('#bottom').select();document.execCommand('copy');}(document));
