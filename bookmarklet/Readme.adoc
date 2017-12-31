@@ -14,5 +14,14 @@ https://github.com/nick-b/homemarks[homemarks: HomeMarks is a web based GUI to b
 
 https://github.com/nick-b/homemarks/blob/b9a08436b9fb1cdec7bb6dfc005074951fb149d3/app/views/bookmarklets/_bookmarklet.html.erb[_bookmarklet.html.erb]
 
+試過調整 squid cache 來移除 response header，無效。
 
+將用 https://gist.github.com/torsten/74107[torsten/proxy.rb] 來改寫可移掉 Content-Security-Policy 的 header 的簡單 proxy。
+
+但只能處理 port 80, SSL 無法處理，
+參考：
+
+https://stackoverflow.com/questions/26467867/ruby-ssl-proxy-mitm[ruby SSL proxy (MITM) - Stack Overflow]
+
+https://stackoverflow.com/questions/12187509/how-do-i-write-a-simple-https-proxy-server-in-ruby[ssl - How do I write a simple HTTPS proxy server in Ruby? - Stack Overflow]
 
