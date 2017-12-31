@@ -1,0 +1,18 @@
+# CSP 超煩、firefox 太嚴謹、github 更嚴謹
+
+https://greasyfork.org/en/forum/discussion/353/doesnt-work-because-of-content-security-policy#Comment_1586[Doesn't work because of Content Security Policy - Greasy Forum] -- 這招在 firefox 有解決
+
+http://jeffersonscher.com/res/csp-tester.php[CSP Tester] -- 來測試
+
+https://github.com/blog/1477-content-security-policy[Content Security Policy] -- github 一直解決不了
+
+https://stackoverflow.com/questions/7607605/does-content-security-policy-block-bookmarklets[javascript - Does Content Security Policy block bookmarklets? - Stack Overflow] -- 不是很有效，可參考
+
+https://homemarks.com/blog/2015-02-17-bookmarklet-fixed-for-sites-with-strict-csp-policies[HomeMarks - Bookmarklet Fixed For Sites With Strict CSP Policies] -- 號稱可解決？
+
+https://github.com/nick-b/homemarks[homemarks: HomeMarks is a web based GUI to build HTML start pages] -- 其github裡原始碼值得看
+
+https://github.com/nick-b/homemarks/blob/b9a08436b9fb1cdec7bb6dfc005074951fb149d3/app/views/bookmarklets/_bookmarklet.html.erb[_bookmarklet.html.erb]
+
+
+

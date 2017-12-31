@@ -19,3 +19,6 @@
 [submodule "lib/handlebars"]
 	path = lib/handlebars
 	url = https://github.com/wycats/handlebars.js/
+[submodule "tutorial/js-stack-from-scratch"]
+	path = tutorial/js-stack-from-scratch
+	url = https://github.com/verekia/js-stack-from-scratch
