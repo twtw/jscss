@@ -22,3 +22,9 @@
 [submodule "tutorial/js-stack-from-scratch"]
 	path = tutorial/js-stack-from-scratch
 	url = https://github.com/verekia/js-stack-from-scratch
+[submodule "bookmarklet/rack-proxy"]
+	path = bookmarklet/rack-proxy
+	url = https://github.com/ncr/rack-proxy
+[submodule "bookmarklet/evil-proxy"]
+	path = bookmarklet/evil-proxy
+	url = https://github.com/bbtfr/evil-proxy
