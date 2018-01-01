@@ -28,3 +28,6 @@
 [submodule "bookmarklet/evil-proxy"]
 	path = bookmarklet/evil-proxy
 	url = https://github.com/bbtfr/evil-proxy
+[submodule "tutorial/nodejitsu-docs"]
+	path = tutorial/nodejitsu-docs
+	url = https://github.com/nodejitsu/docs
