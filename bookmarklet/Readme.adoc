@@ -29,4 +29,5 @@ http://www.rubydoc.info/stdlib/webrick/WEBrick/HTTPProxyServer[Class: WEBrick::H
 
 '''
 
-詳細過程參考：https://github.com/twtw/LearningLogs/issues/6[how to remove https CSP headers]
+詳細過程參考：
+https://github.com/twtw/LearningLogs/issues/6[how to remove https CSP headers]
