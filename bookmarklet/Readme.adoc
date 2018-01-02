@@ -31,3 +31,15 @@ http://www.rubydoc.info/stdlib/webrick/WEBrick/HTTPProxyServer[Class: WEBrick::H
 
 詳細過程參考：
 https://github.com/twtw/LearningLogs/issues/6[how to remove https CSP headers]
+
+'''
+https://free.com.tw/rawgit/[RawGit 將 GitHub 的 Raw 檔案轉為 CDN 格式直接存取使
+用]
+
+----
+#development:
+https://rawgit.com/user/repo/branch/file
+
+#production:
+https://cdn.rawgit.com/user/repo/branch/file
+----
