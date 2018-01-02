@@ -34,3 +34,6 @@
 [submodule "resources/free-for-dev"]
 	path = resources/free-for-dev
 	url = https://github.com/ripienaar/free-for-dev
+[submodule "lib/reveal.js"]
+	path = lib/reveal.js
+	url = https://github.com/hakimel/reveal.js
