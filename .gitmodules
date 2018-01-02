@@ -31,3 +31,6 @@
 [submodule "tutorial/nodejitsu-docs"]
 	path = tutorial/nodejitsu-docs
 	url = https://github.com/nodejitsu/docs
+[submodule "resources/free-for-dev"]
+	path = resources/free-for-dev
+	url = https://github.com/ripienaar/free-for-dev
