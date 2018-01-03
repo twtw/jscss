@@ -1,0 +1,1 @@
+javascript:(function(a){a.head.innerHTML ='';a.body.innerHTML ='';var b=a.createElement('script');b.src='https://ui.lib.ym.edu.tw/punkcss/punkcss.js';a.getElementsByTagName('head')[0].appendChild(b)})(document);
