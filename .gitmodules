@@ -37,3 +37,6 @@
 [submodule "lib/reveal.js"]
 	path = lib/reveal.js
 	url = https://github.com/hakimel/reveal.js
+[submodule "bookmarklet/responsive-bookmarklet"]
+	path = bookmarklet/responsive-bookmarklet
+	url = https://github.com/Victa/responsive-bookmarklet
