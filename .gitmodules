@@ -40,3 +40,6 @@
 [submodule "bookmarklet/responsive-bookmarklet"]
 	path = bookmarklet/responsive-bookmarklet
 	url = https://github.com/Victa/responsive-bookmarklet
+[submodule "resources/thoughtbot-guides"]
+	path = resources/thoughtbot-guides
+	url = https://github.com/thoughtbot/guides
