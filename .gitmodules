@@ -49,3 +49,6 @@
 [submodule "resources/tech-interview-handbook"]
 	path = resources/tech-interview-handbook
 	url = https://github.com/yangshun/tech-interview-handbook
+[submodule "resources/javascript-style-guide"]
+	path = resources/javascript-style-guide
+	url = https://github.com/airbnb/javascript
