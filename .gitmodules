@@ -46,3 +46,6 @@
 [submodule "tutorial/30-seconds-of-code"]
 	path = tutorial/30-seconds-of-code
 	url = https://github.com/Chalarangelo/30-seconds-of-code
+[submodule "resources/tech-interview-handbook"]
+	path = resources/tech-interview-handbook
+	url = https://github.com/yangshun/tech-interview-handbook
