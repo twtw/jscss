@@ -43,3 +43,6 @@
 [submodule "resources/thoughtbot-guides"]
 	path = resources/thoughtbot-guides
 	url = https://github.com/thoughtbot/guides
+[submodule "tutorial/30-seconds-of-code"]
+	path = tutorial/30-seconds-of-code
+	url = https://github.com/Chalarangelo/30-seconds-of-code
