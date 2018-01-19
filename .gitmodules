@@ -64,3 +64,6 @@
 [submodule "template/responsive-html-email-template"]
 	path = template/responsive-html-email-template
 	url = https://github.com/leemunroe/responsive-html-email-template
+[submodule "template/email-blueprints"]
+	path = template/email-blueprints
+	url = https://github.com/mailchimp/email-blueprints
