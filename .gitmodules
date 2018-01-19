@@ -55,3 +55,6 @@
 [submodule "fonts/OSFCC"]
 	path = fonts/OSFCC
 	url = https://github.com/DrXie/OSFCC
+[submodule "fonts/wangfonts"]
+	path = fonts/wangfonts
+	url = https://github.com/dictcp/wangfonts
