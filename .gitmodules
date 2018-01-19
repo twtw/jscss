@@ -52,3 +52,6 @@
 [submodule "resources/javascript-style-guide"]
 	path = resources/javascript-style-guide
 	url = https://github.com/airbnb/javascript
+[submodule "fonts/OSFCC"]
+	path = fonts/OSFCC
+	url = https://github.com/DrXie/OSFCC
