@@ -33,3 +33,6 @@ https://fatetypo.xyz/osfcc/[中文开源字体集 Open Source Fonts Collection f
 https://github.com/DrXie/OSFCC[OSFCC: 一个收集可用于中文字体排印的开源字体集合]
 
 http://zenozeng.github.io/Free-Chinese-Fonts/[免费中文字体收集]
+
+http://tips.justfont.com/post/113397509827/freeandcarefreefonts[jf tips — free and carefree: 可以免費商用的中文或漢字字型]
+
