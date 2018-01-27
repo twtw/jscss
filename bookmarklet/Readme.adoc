@@ -43,3 +43,36 @@ https://rawgit.com/user/repo/branch/file
 #production:
 https://cdn.rawgit.com/user/repo/branch/file
 ----
+'''
+
+參考 http://jsbeautifier.org/[Online JavaScript beautifier] 的例子：
+
+[source,javascript]
+----
+function() {
+    (function() {
+        "use strict";
+
+        function e(e) {
+            return Array.prototype.slice.call(window.document.querySelectorAll(e))
+        }
+
+        function t() {
+            alert("Sorry, sakura styles could not be applied to this page.")
+        }
+
+        function r() {
+            var t = e("link").filter(function(e) {
+                    return "stylesheet" === e.getAttribute("rel") && e !== n
+                }),
+                r = e("style"),
+                o = t.concat(r);
+            o.forEach(function(e) {
+                e.parentElement.removeChild(e)
+            })
+        }
+        var n = window.document.createElement("link");
+        n.addEventListener("error", t), n.addEventListener("load", r), n.setAttribute("rel", "stylesheet"), n.setAttribute("href", "https://unpkg.com/sakura.css/css/sakura.css"), window.document.head.appendChild(n)
+    })();
+}
+----
