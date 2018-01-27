@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Koala
+GenericName=Koala GUI
+Exec=/home/user/bin/koala/koala
+Terminal=false
+Icon=/home/user/bin/koala/icon/koala.png
+Type=Application
+Categories=Graphics;
+Comment=A cool tool for web developers.

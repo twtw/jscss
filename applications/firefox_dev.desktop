@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Firefox Developer 
+GenericName=Firefox Developer Edition
+Exec=/home/user/bin/firefox/firefox
+Terminal=false
+Icon=/home/user/bin/firefox/browser/icons/mozicon128.png
+Type=Application
+Categories=Application;Network;X-Developer;
+Comment=Firefox Developer Edition Web Browser.

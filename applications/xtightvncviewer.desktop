@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Xtightvncviewer
+Comment=Vncviewer
+Exec=xtightvncviewer
+Icon=computer
+Terminal=false
+Type=Application
+StartupNotify=false
+Categories=Network;RemoteAccess;
