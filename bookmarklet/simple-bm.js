@@ -1,1 +1,1 @@
-javascript:!function(e){if(!e.getElementById("bm_resizer")){var t=e.createElement("script");t.src="https://cdn.rawgit.com/twtw/jscss/master/bookmarklet/noImage.js",e.body.appendChild(t)}}(document);
+javascript:!function(e){if(!e.getElementById("bm_resizer")){var t=e.createElement("script");t.src="https://cdn.jsdelivr.net/gh/twtw/jscss/bookmarklet/noImage.js",e.body.appendChild(t)}}(document);
